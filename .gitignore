@@ -162,6 +162,11 @@ venv.bak/
 # Conda environments
 conda-meta/
 
+# Kaggle
+data/
+kaggle.json
+output/
+
 # Spyder project settings
 .spyderproject
 .spyproject
