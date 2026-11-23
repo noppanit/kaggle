@@ -166,6 +166,10 @@ conda-meta/
 data/
 kaggle.json
 output/
+kaggle_output/
+
+# macOS
+.DS_Store
 
 # Spyder project settings
 .spyderproject

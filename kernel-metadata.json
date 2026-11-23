@@ -1,0 +1,13 @@
+{
+  "id": "toyclimbs/titanic-ml",
+  "title": "Titanic ML",
+  "code_file": "titanic-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["titanic"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
